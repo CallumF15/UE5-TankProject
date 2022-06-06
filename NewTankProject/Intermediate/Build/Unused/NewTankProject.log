@@ -1,0 +1,8 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Callu\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for NewTankProjectEditor (working set of source files changed)
+  Parsing headers for NewTankProjectEditor
+    Running UnrealHeaderTool "C:\Users\Callu\OneDrive\Documents\Unreal Projects\NewTankProject\NewTankProject.uproject" "C:\Users\Callu\OneDrive\Documents\Unreal Projects\NewTankProject\Intermediate\Build\Win64\NewTankProjectEditor\Development\NewTankProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Callu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for NewTankProjectEditor in 1.3126074 seconds
+UnrealBuildTool : error : Unable to build while Live Coding is active. Exit the editor and game, or press Ctrl+Alt+F11 if iterating on code in the editor or game
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_5.0\Engine\Build\BatchFiles\Build.bat" NewTankProjectEditor Win64 Development -Project="C:\Users\Callu\OneDrive\Documents\Unreal Projects\NewTankProject\NewTankProject.uproject" -WaitMutex -FromMsBuild" exited with code 6.

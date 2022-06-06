@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newtankproject\\mycharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\newtankprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\unrealeditor\\development\\newtankproject\\definitions.newtankproject.h",
+            "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\source\\newtankproject\\public\\mycharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newtankproject\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

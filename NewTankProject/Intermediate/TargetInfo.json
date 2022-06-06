@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NewTankProject",
+			"Path": "C:\\Users\\Callu\\OneDrive\\Documents\\Unreal Projects\\NewTankProject\\Source\\NewTankProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NewTankProjectEditor",
+			"Path": "C:\\Users\\Callu\\OneDrive\\Documents\\Unreal Projects\\NewTankProject\\Source\\NewTankProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

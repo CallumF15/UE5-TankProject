@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NewTankProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NewTankProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NewTankProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\West_Tank_M1A1Abrams.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\NewTankProject">
+      <UniqueIdentifier>{ABC2001F-5F53-3148-8D60-B65FF6C1E5D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NewTankProject\NewTankProject.Build.cs">
+      <Filter>Source\NewTankProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NewTankProject\NewTankProject.cpp">
+      <Filter>Source\NewTankProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewTankProject\NewTankProject.h">
+      <Filter>Source\NewTankProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\NewTankProject\Private">
+      <UniqueIdentifier>{E6C0D9E1-941B-32CD-85E0-915AF2470B73}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NewTankProject\Private\CameraCharacter.cpp">
+      <Filter>Source\NewTankProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NewTankProject\Private\MyCharacter.cpp">
+      <Filter>Source\NewTankProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NewTankProject\Public">
+      <UniqueIdentifier>{03C9C918-B3A2-3FE2-8173-BB18B6E6C4C1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\NewTankProject\Public\CameraCharacter.h">
+      <Filter>Source\NewTankProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NewTankProject\Public\MyCharacter.h">
+      <Filter>Source\NewTankProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

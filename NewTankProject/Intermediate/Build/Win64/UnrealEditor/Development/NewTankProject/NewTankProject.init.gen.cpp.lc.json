@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\unrealeditor\\inc\\newtankproject\\newtankproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\newtankprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\callu\\onedrive\\documents\\unreal projects\\newtankproject\\intermediate\\build\\win64\\unrealeditor\\development\\newtankproject\\definitions.newtankproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
